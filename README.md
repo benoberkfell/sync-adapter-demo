@@ -8,4 +8,4 @@ and accounts, and also to show how to unit test the sync logic within the JVM.
 
 We use Realm to handle the persistence layer, rather than using a content provider.
 
-Check out the [Droidcon slide deck for more info](https://github.com/benoberkfell/sync-adapter-demo/blob/master/droidcon-sf-presentation.pdf)
+Check out the [Droidcon slide deck for more info](https://github.com/benoberkfell/sync-adapter-demo/raw/master/droidcon-sf-presentation.pdf)
